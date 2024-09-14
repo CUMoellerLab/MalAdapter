@@ -8,3 +8,5 @@ This repository contains 5 scripts.
 Similarly, 'script-for-removing-adapters.sh' and 'script-for-removing-adapters-rc.sh' removes ends of contigs containing 'AGATCGGAAGAG' or 'CTCTTCCGATCT', respectively. 
 
 'script-for-CAP3.sh' runs CAP3 (https://doua.prabi.fr/software/cap3) on input assemblies, with the goal of merging overlapping contiguous sequences.
+
+N50 calculations were made following the approach described here: https://github.com/hcdenbakker/N50.sh
