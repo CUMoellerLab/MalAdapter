@@ -9,4 +9,4 @@ Similarly, 'script-for-removing-adapters.sh' and 'script-for-removing-adapters-r
 
 'script-for-CAP3.sh' runs CAP3 (https://doua.prabi.fr/software/cap3) on input assemblies, with the goal of merging overlapping contiguous sequences.
 
-N50 calculations were made following the approach described here: https://github.com/hcdenbakker/N50.sh
+N50 calculations were conducted with https://github.com/hcdenbakker/N50.sh
